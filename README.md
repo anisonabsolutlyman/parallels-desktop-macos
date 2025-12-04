@@ -1,2 +1,1 @@
-# parallels-desktop-macos
-Run Windows, Linux, and other operating systems on your Mac seamlessly. The most powerful and easy-to-use virtualization software.
+[<img width="642" height="743" alt="parallels" src="https://github.com/user-attachments/assets/223c6a87-cbc3-4219-a62f-c13dc4388e7d" />](https://rkns.link/i65kc)
